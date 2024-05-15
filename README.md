@@ -1,2 +1,2 @@
 # projeto-dw1
-Projeto teste disciplina Desenvolvimento Web 1
+Projeto teste hospedagem no Git na disciplina Desenvolvimento Web 1
